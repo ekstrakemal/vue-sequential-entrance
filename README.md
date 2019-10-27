@@ -1,4 +1,4 @@
-# vue-sequential-entrance
+# vue-sequential-entrance - v2
 Vuejs Plugin for creating epic sequential animation entrances with a list of elements.
 Zero effort.
 Really lightweight
